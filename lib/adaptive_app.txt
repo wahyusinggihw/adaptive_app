@@ -1,0 +1,11 @@
+Scaffold digunakan untuk menyimpan 
+
+
+Media query digunakan untuk menyimpan informasi tentang ukuran layar pada perangkat 
+
+Layout builder kurang lebih sama dengan media query, tetapi lebih complex karena widget ini memiliki fungsi builder yang nantinya akan memberikan batasan pada sebuah widget. widget ini akan menyesuaikan dengan ukuran layar pada perangkat, sehingga ketika terdapat perubahan ukuran, maka semua elemen di dalamnya akan di buat ulang
+
+Expanded, untuk membuat sebuah widget yang memenuhi area kosong pada layar.
+
+
+visual density dalam Widget theme, kita bisa menambahkan padding horizontal dan vertical pada visual density untuk memenuhi konsep desain adaptif

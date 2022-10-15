@@ -17,7 +17,8 @@ final List<Map<String, Object>> _people = [
     "guid": "ff98bd8a-a590-40e1-80d0-c0547cae75a7",
     "isActive": true,
     "balance": "\$1,698.70",
-    "picture": "http://placehold.it/32x32",
+    "picture":
+        "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "age": 38,
     "eyeColor": "green",
     "name": "Mclean Hogan",
@@ -47,7 +48,8 @@ final List<Map<String, Object>> _people = [
     "guid": "a70af015-bc61-4423-b036-88bee93f41b4",
     "isActive": true,
     "balance": "\$3,478.62",
-    "picture": "http://placehold.it/32x32",
+    "picture":
+        "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "age": 32,
     "eyeColor": "blue",
     "name": "Allison Gardner",
@@ -76,7 +78,8 @@ final List<Map<String, Object>> _people = [
     "guid": "0e301a91-4032-4acb-bb41-6bc153c753ec",
     "isActive": true,
     "balance": "\$1,396.10",
-    "picture": "http://placehold.it/32x32",
+    "picture":
+        "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "age": 23,
     "eyeColor": "blue",
     "name": "Lola Salinas",
@@ -113,7 +116,8 @@ final List<Map<String, Object>> _people = [
     "guid": "baede0d1-c228-413e-8858-043343c550fd",
     "isActive": false,
     "balance": "\$3,321.72",
-    "picture": "http://placehold.it/32x32",
+    "picture":
+        "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "age": 20,
     "eyeColor": "brown",
     "name": "Clemons Waters",
@@ -150,7 +154,8 @@ final List<Map<String, Object>> _people = [
     "guid": "be9e0c0e-7f0f-40cd-bdd6-2258d5a7bfc0",
     "isActive": true,
     "balance": "\$2,434.31",
-    "picture": "http://placehold.it/32x32",
+    "picture":
+        "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "age": 24,
     "eyeColor": "blue",
     "name": "Christensen Snider",
@@ -187,7 +192,8 @@ final List<Map<String, Object>> _people = [
     "guid": "14c7ad8a-8445-43b1-a7ab-912c1c591f36",
     "isActive": true,
     "balance": "\$3,559.16",
-    "picture": "http://placehold.it/32x32",
+    "picture":
+        "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "age": 36,
     "eyeColor": "green",
     "name": "Maxwell Austin",
@@ -216,7 +222,8 @@ final List<Map<String, Object>> _people = [
     "guid": "c3c927ef-a696-438a-879c-91176a76e28a",
     "isActive": true,
     "balance": "\$2,387.66",
-    "picture": "http://placehold.it/32x32",
+    "picture":
+        "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "age": 21,
     "eyeColor": "green",
     "name": "Tabatha Kennedy",
